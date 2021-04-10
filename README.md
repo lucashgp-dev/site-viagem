@@ -14,6 +14,6 @@ Principais tópicos aprendidos com esse projeto :
 ![mobile](https://github.com/lucashgp-dev/site-viagem/blob/main/gifs%20demo/mobile.gif?raw=true)
 
 ## Demonstração Desktop:
-[desktop](https://github.com/lucashgp-dev/site-viagem/blob/main/gifs%20demo/desktop.gif?raw=true)
+![desktop](https://github.com/lucashgp-dev/site-viagem/blob/main/gifs%20demo/desktop.gif?raw=true)
 
 
