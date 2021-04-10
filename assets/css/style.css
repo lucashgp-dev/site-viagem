@@ -32,7 +32,7 @@ button {
 
 header {
     height: calc(100vh - 150px);
-    background: no-repeat center/cover url('/assets/img/header-imagem.jpg');
+    background: no-repeat center/cover url('../img/header-imagem.jpg');
 }
 
 header nav {
