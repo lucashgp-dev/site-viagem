@@ -1,6 +1,6 @@
 ## Site de agência de viagens
 
-Este é um projeto desenvolvido com o intuito de praticar os conhecimentos de HTML e CSS.
+Este é um projeto desenvolvido com o intuito de praticar os conhecimentos de HTML e CSS, feito com a ajuda de @PapodeDev através do Youtube. 
 
 Principais tópicos aprendidos com esse projeto :
 
